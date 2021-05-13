@@ -1,0 +1,32 @@
+.main-ctn-1-view-packages
+{
+	height:250px;
+}
+.packages-img
+{
+	height: 358px;
+	width: 524px;
+}
+
+.package-book-btn
+{
+	width: 524px !important;
+	background-color: #eb4c34;
+}
+
+.package_section_1_shadow
+{
+	padding: 40px;
+	background-color: white;
+	
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgba(0, 0, 0, 1.19);
+}
+
+.package_section_2_shadow
+{
+	padding: 40px;
+	background-color: white;
+	height: 657px;
+
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgba(0, 0, 0, 1.19);
+}

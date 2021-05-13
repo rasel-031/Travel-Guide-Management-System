@@ -1,0 +1,24 @@
+
+ <<<<<< Trip-Mania Management System, 2020 >>>>>>
+
+ Here are some guidelines for a Trip-mania Management System. The instructions are given below....
+
+ 1. Firstly, you open Xampp software and click the start button to start the Apache server for run PHP file 
+   and also start the MySQL database for fetch data. 
+
+ 2. Secondly, you go to the PHPMyAdmin panel and create a new database name "tms (lower case letter)".
+   when database creating successful then you import register.sql file from Database File folder.
+
+ 3. Go to your Local Disk where your Xampp app is installed. Then, open "xampp" folder and go to "htdocs". 
+   Open "htdocs" file and keep the "TMS_NEW" folder to this folder.
+
+ 4. Open any browser and go to this link "http://localhost/TMS_new/home.php"
+
+ 5. Now, you can browse our Trip-Management System.
+
+
+ [ Note: Our new Login and Sign-Up system is available.]
+
+  >>> You can try it, Quickly !!!
+
+  >>> Thanks for using my website :) 

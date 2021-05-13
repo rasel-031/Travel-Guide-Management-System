@@ -1,0 +1,119 @@
+
+/*body id and navigation bar classes*/
+/*#08090e */
+
+#bdy
+{
+	background-image: url("image/trip.png");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 555px;
+	
+	/*Averia Serif Libre,sans-serif*/
+}
+
+a:hover
+{
+	color: black !important;
+}
+
+.search
+{
+	margin-left: 25px !important;
+}
+
+.transparent
+{
+	opacity: 0.85 !important;
+}
+.bgc
+{
+	margin-right: 19px;
+	float: right;
+	width: 175px;
+}
+
+/*main body classes and ides*/
+
+.main_container
+{
+	background-color: white;
+	height: 600px;
+	margin-top: 0;
+}
+.ctn-transparent
+{
+	background-color:rgba(0,0,0,0.3);
+	position: relative;
+}
+
+.main-ctn-1
+{
+	height: 520px;
+}
+
+.front-moto-img
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	opacity: 0.9;
+	border-radius: 10px;
+	
+}
+.trip-mania-heading
+{
+	
+	text-align: center;
+	font-family: 'Averia Serif Libre',sans-serif;
+	font-size: 55px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	color: white;
+}
+
+/*second container*/
+.ctn-2-img
+{
+	height: 485px;
+	width: 605px;
+}
+
+/*card style*/
+.card-container-1
+{
+	width:360px;
+	background-color:white;
+	margin-left: 75px;
+	display: inline-block;
+	position:relative;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.card-container-2
+{
+	width:360px;
+	background-color:white;
+	margin-left: 40px;
+	display: inline-block;
+	position:relative;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+/*login button*/
+.profile_btn
+{
+  width: 30px;
+  height: 30px;
+  margin-left: 50%;
+}
+
+.profile_name
+{
+   float: right;
+   margin-right: 15px;
+}
